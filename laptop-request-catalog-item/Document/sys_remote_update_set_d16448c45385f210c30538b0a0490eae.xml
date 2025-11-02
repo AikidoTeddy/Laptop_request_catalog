@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2025-11-01 10:23:10">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Laptop Request</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>28b45fb353fcb210c30538b0a0490eff</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-11-01 10:23:08</sys_created_on>
+<sys_id>d16448c45385f210c30538b0a0490eae</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-11-01 10:23:08</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>catalog_ui_policy_action_a2c284845385f210c30538b0a0490eb1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value=" Laptop Request">95c79bbb53fcb210c30538b0a0490e0f</catalog_item><catalog_variable>IO:ae318c805385f210c30538b0a0490e78</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><field_message/><field_message_type>none</field_message_type><mandatory>true</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-11-01 10:16:42</sys_created_on><sys_id>a2c284845385f210c30538b0a0490eb1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>accessories_details</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>catalog_ui_policy_action_a2c284845385f210c30538b0a0490eb1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-11-01 10:16:42</sys_updated_on><table/><ui_policy display_value=" show accessories details">796288445385f210c30538b0a0490e10</ui_policy><value/><value_action>ignore</value_action><variable>accessories_details</variable><variable_set/><visible>true</visible></catalog_ui_policy_action><sys_translated_text action="delete_multiple" query="documentkey=a2c284845385f210c30538b0a0490eb1"/></record_update>]]></payload>
+<payload_hash>-1896276884</payload_hash>
+<remote_update_set display_value="Laptop Request">d16448c45385f210c30538b0a0490eae</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-11-01 10:23:08</sys_created_on>
+<sys_id>196448c45385f210c30538b0a0490eaf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19a3eeb58880000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-11-01 10:23:08</sys_updated_on>
+<table/>
+<target_name>accessories_details</target_name>
+<type>Catalog UI Policy Action</type>
+<update_domain>global</update_domain>
+<update_guid>8be28884ac85f21090e149651a727d6a</update_guid>
+<update_guid_history>8be28884ac85f21090e149651a727d6a:-1896276884</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_eeef773353b4f210c30538b0a0490e02</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item display_value=" Laptop Request"&gt;95c79bbb53fcb210c30538b0a0490e0f&lt;/cat_item&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;conversational_label/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;disable_initial_slot_fill&gt;false&lt;/disable_initial_slot_fill&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;dynamic_value_dot_walk_path/&gt;&lt;dynamic_value_field/&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field/&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_dependent_question/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_source/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;false&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;justification&lt;/name&gt;&lt;not_available_conversation&gt;false&lt;/not_available_conversation&gt;&lt;order&gt;200&lt;/order&gt;&lt;post_insert_script/&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref/&gt;&lt;question_text&gt;Justification&lt;/question_text&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table/&gt;&lt;reference/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;rich_text/&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script&gt;&lt;![CDATA[/** This script is executed before the Record is generated
+* `current`- GlideRecord produced by Record Producer
+* Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+* Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+* Avoid `current.setAbortAction()` and generate a separate record
+* Use `producer.var1` to access variables
+*/]]&gt;&lt;/save_script&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-11-01 10:05:21&lt;/sys_created_on&gt;&lt;sys_id&gt;eeef773353b4f210c30538b0a0490e02&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Justification&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_eeef773353b4f210c30538b0a0490e02&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-11-01 10:05:21&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;topic_block/&gt;&lt;type&gt;2&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set/&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=eeef773353b4f210c30538b0a0490e02"/&gt;&lt;fx_price action="delete_multiple" query="id=eeef773353b4f210c30538b0a0490e02"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="INR"&gt;INR&lt;/currency&gt;&lt;field&gt;price_if_checked&lt;/field&gt;&lt;id&gt;eeef773353b4f210c30538b0a0490e02&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-11-01 10:05:21&lt;/sys_created_on&gt;&lt;sys_id&gt;3850c0405385f210c30538b0a0490e63&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-11-01 10:05:21&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="INR"&gt;INR&lt;/currency&gt;&lt;field&gt;rec_price_if_checked&lt;/field&gt;&lt;id&gt;eeef773353b4f210c30538b0a0490e02&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-11-01 10:05:21&lt;/sys_created_on&gt;&lt;sys_id&gt;3050c0405385f210c30538b0a0490e61&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-11-01 10:05:21&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>927576136</payload_hash>
+<remote_update_set display_value="Laptop Request">d16448c45385f210c30538b0a0490eae</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-11-01 10:23:09</sys_created_on>
+<sys_id>1d6448c45385f210c30538b0a0490eb0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19a3ee0f5a60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-11-01 10:23:09</sys_updated_on>
+<table/>
+<target_name>Justification</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>7850c0403a85f21068885b466b9b3b69</update_guid>
+<update_guid_history>7850c0403a85f21068885b466b9b3b69:927576136</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_60a32ff35370f210c30538b0a0490eee</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>Enable MariaDB INSTANT ALTER algorithms on the Now Platform</description><ignore_cache>false</ignore_cache><is_private>false</is_private><name>glide.db.instant_alter.enabled</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-11-01 08:00:00</sys_created_on><sys_id>60a32ff35370f210c30538b0a0490eee</sys_id><sys_mod_count>0</sys_mod_count><sys_name>glide.db.instant_alter.enabled</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_60a32ff35370f210c30538b0a0490eee</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-11-01 08:00:00</sys_updated_on><type>boolean</type><value>true</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=60a32ff35370f210c30538b0a0490eee"/></record_update>]]></payload>
+<payload_hash>1404848574</payload_hash>
+<remote_update_set display_value="Laptop Request">d16448c45385f210c30538b0a0490eae</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-11-01 10:23:09</sys_created_on>
+<sys_id>2d6488485385f210c30538b0a0490e89</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19a3e6e4c590000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-11-01 10:23:09</sys_updated_on>
+<table/>
+<target_name>glide.db.instant_alter.enabled</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_guid>12a3aff3c570f2101f9ff465d5c51d66</update_guid>
+<update_guid_history>12a3aff3c570f2101f9ff465d5c51d66:1404848574</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_ae318c805385f210c30538b0a0490e78</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item display_value=" Laptop Request"&gt;95c79bbb53fcb210c30538b0a0490e0f&lt;/cat_item&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;conversational_label/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;disable_initial_slot_fill&gt;false&lt;/disable_initial_slot_fill&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;dynamic_value_dot_walk_path/&gt;&lt;dynamic_value_field/&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field/&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_dependent_question/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_source/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;false&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;accessories_details&lt;/name&gt;&lt;not_available_conversation&gt;false&lt;/not_available_conversation&gt;&lt;order&gt;400&lt;/order&gt;&lt;post_insert_script/&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref/&gt;&lt;question_text&gt;Accessories Details&lt;/question_text&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table/&gt;&lt;reference/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;rich_text/&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script&gt;&lt;![CDATA[/** This script is executed before the Record is generated
+* `current`- GlideRecord produced by Record Producer
+* Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+* Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+* Avoid `current.setAbortAction()` and generate a separate record
+* Use `producer.var1` to access variables
+*/]]&gt;&lt;/save_script&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-11-01 10:12:26&lt;/sys_created_on&gt;&lt;sys_id&gt;ae318c805385f210c30538b0a0490e78&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Accessories Details&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_ae318c805385f210c30538b0a0490e78&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-11-01 10:12:26&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;topic_block/&gt;&lt;type&gt;2&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set/&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=ae318c805385f210c30538b0a0490e78"/&gt;&lt;fx_price action="delete_multiple" query="id=ae318c805385f210c30538b0a0490e78"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="INR"&gt;INR&lt;/currency&gt;&lt;field&gt;price_if_checked&lt;/field&gt;&lt;id&gt;ae318c805385f210c30538b0a0490e78&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-11-01 10:12:26&lt;/sys_created_on&gt;&lt;sys_id&gt;a4f184045385f210c30538b0a0490e8f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-11-01 10:12:26&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="INR"&gt;INR&lt;/currency&gt;&lt;field&gt;rec_price_if_checked&lt;/field&gt;&lt;id&gt;ae318c805385f210c30538b0a0490e78&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-11-01 10:12:26&lt;/sys_created_on&gt;&lt;sys_id&gt;e8f184045385f210c30538b0a0490e8e&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-11-01 10:12:26&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-811989015</payload_hash>
+<remote_update_set display_value="Laptop Request">d16448c45385f210c30538b0a0490eae</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-11-01 10:23:08</sys_created_on>
+<sys_id>5d6448c45385f210c30538b0a0490eaf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19a3ee771650000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-11-01 10:23:08</sys_updated_on>
+<table/>
+<target_name>Accessories Details</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>a4f184043685f210a70b12cb74760494</update_guid>
+<update_guid_history>a4f184043685f210a70b12cb74760494:-811989015</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sc_cat_item_95c79bbb53fcb210c30538b0a0490e0f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item"><sc_cat_item action="INSERT_OR_UPDATE"><access_type>restricted</access_type><active>true</active><availability>on_desktop</availability><billable>false</billable><category display_value="Hardware">d258b953c611227a0146101fb1be7c31</category><checked_out/><cost>0</cost><custom_cart/><delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan><delivery_plan_script/><delivery_time>1970-01-03 00:00:00</delivery_time><description/><display_price_property>non_zero</display_price_property><entitlement_script/><flow_designer_flow/><fulfillment_automation_level>unspecified</fulfillment_automation_level><group/><hide_sp>false</hide_sp><icon/><ignore_price>true</ignore_price><image/><location/><make_item_non_conversational>false</make_item_non_conversational><mandatory_attachment>false</mandatory_attachment><meta/><mobile_hide_price>false</mobile_hide_price><mobile_picture/><mobile_picture_type>use_desktop_picture</mobile_picture_type><model/><name> Laptop Request</name><no_attachment_v2>false</no_attachment_v2><no_cart>false</no_cart><no_cart_v2>false</no_cart_v2><no_delivery_time_v2>false</no_delivery_time_v2><no_order>false</no_order><no_order_now>false</no_order_now><no_proceed_checkout>false</no_proceed_checkout><no_quantity>false</no_quantity><no_quantity_v2>false</no_quantity_v2><no_save_as_draft>false</no_save_as_draft><no_search>false</no_search><no_wishlist_v2>false</no_wishlist_v2><omit_price>false</omit_price><order>0</order><ordered_item_link/><owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner><picture/><preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=95c79bbb53fcb210c30538b0a0490e0f&amp;sysparm_preview=true", "summary");</preview><price>0</price><published_ref/><recurring_frequency/><recurring_price>0</recurring_price><request_method/><roles/><sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs><sc_ic_item_staging/><sc_ic_version/><sc_template/><short_description>Use this item to request a new laptop</short_description><show_variable_help_on_load>false</show_variable_help_on_load><start_closed>false</start_closed><state/><sys_class_name>sc_cat_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-11-01 07:20:20</sys_created_on><sys_id>95c79bbb53fcb210c30538b0a0490e0f</sys_id><sys_mod_count>8</sys_mod_count><sys_name> Laptop Request</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sc_cat_item_95c79bbb53fcb210c30538b0a0490e0f</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2025-11-01 10:16:42</sys_updated_on><taxonomy_topic/><template/><template_manager_roles/><type>item</type><use_sc_layout>true</use_sc_layout><vendor/><version>8</version><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><workflow/></sc_cat_item><sys_translated_text action="delete_multiple" query="documentkey=95c79bbb53fcb210c30538b0a0490e0f"/><fx_price action="delete_multiple" query="id=95c79bbb53fcb210c30538b0a0490e0f"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="INR">INR</currency><field>price</field><id>95c79bbb53fcb210c30538b0a0490e0f</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2025-11-01 07:20:20</sys_created_on><sys_id>ab8adbb35330f210c30538b0a0490e9b</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-11-01 07:20:20</sys_updated_on><table>sc_cat_item</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>recurring_price</field><id>95c79bbb53fcb210c30538b0a0490e0f</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2025-11-01 07:20:21</sys_created_on><sys_id>b78adbb35330f210c30538b0a0490e9e</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-11-01 07:20:21</sys_updated_on><table>sc_cat_item</table><type>calculated</type></fx_price></record_update>]]></payload>
+<payload_hash>-382810372</payload_hash>
+<remote_update_set display_value="Laptop Request">d16448c45385f210c30538b0a0490eae</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-11-01 10:23:09</sys_created_on>
+<sys_id>616448c45385f210c30538b0a0490eb1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19a3eeb586a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-11-01 10:23:09</sys_updated_on>
+<table/>
+<target_name> Laptop Request</target_name>
+<type>Catalog Item</type>
+<update_domain>global</update_domain>
+<update_guid>83e288845085f210d082099d90dea566</update_guid>
+<update_guid_history>83e288845085f210d082099d90dea566:-382810372,20b280840685f210905b0f888e4821d9:2000778171,2cf18404b185f2104171ee254468c88c:89399418,2e110c806385f2103e798691c377b202:-1821979335,3cc04080f585f21015c34192a9e2283a:561609208,7450c040e585f21075c080453184525e:-1349769545,708dd73b1630f2108017cf6a0fd7da0c:1033818998,3f8adbb3a130f210c1a2231040227dca:-877559755,3f8adbb31030f21083b89e0f9b66b0c5:389883525</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_action_416348c45385f210c30538b0a0490e6f</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_action"&gt;&lt;sys_ui_action action="INSERT_OR_UPDATE"&gt;&lt;action_name&gt;Reset form&lt;/action_name&gt;&lt;active&gt;true&lt;/active&gt;&lt;client&gt;true&lt;/client&gt;&lt;client_script_v2&gt;&lt;![CDATA[function onClick(g_form) {
+
+}]]&gt;&lt;/client_script_v2&gt;&lt;comments/&gt;&lt;condition/&gt;&lt;form_action&gt;false&lt;/form_action&gt;&lt;form_button&gt;false&lt;/form_button&gt;&lt;form_button_v2&gt;false&lt;/form_button_v2&gt;&lt;form_context_menu&gt;false&lt;/form_context_menu&gt;&lt;form_link&gt;false&lt;/form_link&gt;&lt;form_menu_button_v2&gt;false&lt;/form_menu_button_v2&gt;&lt;form_style/&gt;&lt;format_for_configurable_workspace&gt;false&lt;/format_for_configurable_workspace&gt;&lt;hint/&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;list_action&gt;false&lt;/list_action&gt;&lt;list_banner_button&gt;false&lt;/list_banner_button&gt;&lt;list_button&gt;false&lt;/list_button&gt;&lt;list_choice&gt;false&lt;/list_choice&gt;&lt;list_context_menu&gt;false&lt;/list_context_menu&gt;&lt;list_link&gt;false&lt;/list_link&gt;&lt;list_save_with_form_button&gt;false&lt;/list_save_with_form_button&gt;&lt;list_style/&gt;&lt;messages/&gt;&lt;name&gt;Laptop Request&lt;/name&gt;&lt;onclick/&gt;&lt;order&gt;100&lt;/order&gt;&lt;script&gt;&lt;![CDATA[function resetForm() {
+    g_form.clearForm(); // Clears all fields in the form
+    alert("The form has been reset.");
+}
+
+]]&gt;&lt;/script&gt;&lt;show_insert&gt;true&lt;/show_insert&gt;&lt;show_multiple_update&gt;false&lt;/show_multiple_update&gt;&lt;show_query&gt;false&lt;/show_query&gt;&lt;show_update&gt;true&lt;/show_update&gt;&lt;sys_class_name&gt;sys_ui_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-11-01 10:20:08&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;416348c45385f210c30538b0a0490e6f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Laptop Request&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_action_416348c45385f210c30538b0a0490e6f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-11-01 10:20:08&lt;/sys_updated_on&gt;&lt;table&gt;sc_cart&lt;/table&gt;&lt;ui11_compatible&gt;true&lt;/ui11_compatible&gt;&lt;ui16_compatible&gt;false&lt;/ui16_compatible&gt;&lt;/sys_ui_action&gt;&lt;/record_update&gt;</payload>
+<payload_hash>942496637</payload_hash>
+<remote_update_set display_value="Laptop Request">d16448c45385f210c30538b0a0490eae</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-11-01 10:23:09</sys_created_on>
+<sys_id>616488485385f210c30538b0a0490e8a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19a3eee7edf0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-11-01 10:23:09</sys_updated_on>
+<table>sc_cart</table>
+<target_name>Laptop Request</target_name>
+<type>UI Action</type>
+<update_domain>global</update_domain>
+<update_guid>19b3c008ef85f21055e3ac21756e9d77</update_guid>
+<update_guid_history>19b3c008ef85f21055e3ac21756e9d77:942496637</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_d52ddbf75330f210c30538b0a0490e52</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item display_value=" Laptop Request"&gt;95c79bbb53fcb210c30538b0a0490e0f&lt;/cat_item&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;conversational_label/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;disable_initial_slot_fill&gt;false&lt;/disable_initial_slot_fill&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;dynamic_value_dot_walk_path/&gt;&lt;dynamic_value_field/&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field/&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_dependent_question/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_source/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;false&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;laptop_model&lt;/name&gt;&lt;not_available_conversation&gt;false&lt;/not_available_conversation&gt;&lt;order&gt;100&lt;/order&gt;&lt;post_insert_script/&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref/&gt;&lt;question_text&gt;Laptop Model&lt;/question_text&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table/&gt;&lt;reference/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;rich_text/&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script&gt;&lt;![CDATA[/** This script is executed before the Record is generated
+* `current`- GlideRecord produced by Record Producer
+* Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+* Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+* Avoid `current.setAbortAction()` and generate a separate record
+* Use `producer.var1` to access variables
+*/]]&gt;&lt;/save_script&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-11-01 07:33:14&lt;/sys_created_on&gt;&lt;sys_id&gt;d52ddbf75330f210c30538b0a0490e52&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Laptop Model&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_d52ddbf75330f210c30538b0a0490e52&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-11-01 07:33:14&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;topic_block/&gt;&lt;type&gt;6&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set/&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=d52ddbf75330f210c30538b0a0490e52"/&gt;&lt;fx_price action="delete_multiple" query="id=d52ddbf75330f210c30538b0a0490e52"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="INR"&gt;INR&lt;/currency&gt;&lt;field&gt;price_if_checked&lt;/field&gt;&lt;id&gt;d52ddbf75330f210c30538b0a0490e52&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-11-01 07:33:15&lt;/sys_created_on&gt;&lt;sys_id&gt;f88dd73b5330f210c30538b0a0490e0e&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-11-01 07:33:15&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="INR"&gt;INR&lt;/currency&gt;&lt;field&gt;rec_price_if_checked&lt;/field&gt;&lt;id&gt;d52ddbf75330f210c30538b0a0490e52&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-11-01 07:33:15&lt;/sys_created_on&gt;&lt;sys_id&gt;308dd73b5330f210c30538b0a0490e0e&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-11-01 07:33:15&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>368823753</payload_hash>
+<remote_update_set display_value="Laptop Request">d16448c45385f210c30538b0a0490eae</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-11-01 10:23:09</sys_created_on>
+<sys_id>916448c45385f210c30538b0a0490eb0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19a3e55b3f10000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-11-01 10:23:09</sys_updated_on>
+<table/>
+<target_name>Laptop Model</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>788dd73b7030f2106c32c9a8706c9613</update_guid>
+<update_guid_history>788dd73b7030f2106c32c9a8706c9613:368823753</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>catalog_ui_policy_796288445385f210c30538b0a0490e10</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="catalog_ui_policy"&gt;&lt;catalog_ui_policy action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_catalog&gt;true&lt;/applies_catalog&gt;&lt;applies_req_item&gt;false&lt;/applies_req_item&gt;&lt;applies_sc_task&gt;false&lt;/applies_sc_task&gt;&lt;applies_target_record&gt;false&lt;/applies_target_record&gt;&lt;applies_to&gt;item&lt;/applies_to&gt;&lt;catalog_conditions&gt;IO:dc8048405385f210c30538b0a0490eca=true^EQ&lt;/catalog_conditions&gt;&lt;catalog_item display_value=" Laptop Request"&gt;95c79bbb53fcb210c30538b0a0490e0f&lt;/catalog_item&gt;&lt;conditions/&gt;&lt;description/&gt;&lt;global&gt;true&lt;/global&gt;&lt;inherit&gt;false&lt;/inherit&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;on_load&gt;true&lt;/on_load&gt;&lt;order&gt;100&lt;/order&gt;&lt;published_ref/&gt;&lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;&lt;run_scripts&gt;false&lt;/run_scripts&gt;&lt;script_false&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_false&gt;&lt;script_true&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_true&gt;&lt;set_values/&gt;&lt;short_description&gt; show accessories details&lt;/short_description&gt;&lt;sys_class_name&gt;catalog_ui_policy&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-11-01 10:15:42&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;796288445385f210c30538b0a0490e10&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt; show accessories details&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;catalog_ui_policy_796288445385f210c30538b0a0490e10&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-11-01 10:15:42&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;va_supported&gt;true&lt;/va_supported&gt;&lt;variable_set/&gt;&lt;view/&gt;&lt;/catalog_ui_policy&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-528422892</payload_hash>
+<remote_update_set display_value="Laptop Request">d16448c45385f210c30538b0a0490eae</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-11-01 10:23:08</sys_created_on>
+<sys_id>996448c45385f210c30538b0a0490eae</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19a3eea6f1c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-11-01 10:23:08</sys_updated_on>
+<table/>
+<target_name> show accessories details</target_name>
+<type>Catalog UI Policy</type>
+<update_domain>global</update_domain>
+<update_guid>24b28084b385f210d3d5e801c0d96edd</update_guid>
+<update_guid_history>24b28084b385f210d3d5e801c0d96edd:-528422892</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sc_cat_item_catalog_fb8adbb35330f210c30538b0a0490ea0</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value=" Laptop Request">95c79bbb53fcb210c30538b0a0490e0f</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-11-01 07:20:21</sys_created_on><sys_id>fb8adbb35330f210c30538b0a0490ea0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog. Laptop Request</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sc_cat_item_catalog_fb8adbb35330f210c30538b0a0490ea0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-11-01 07:20:21</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+<payload_hash>-169295365</payload_hash>
+<remote_update_set display_value="Laptop Request">d16448c45385f210c30538b0a0490eae</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-11-01 10:23:09</sys_created_on>
+<sys_id>a16488485385f210c30538b0a0490e89</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19a3e49e3cb0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-11-01 10:23:09</sys_updated_on>
+<table/>
+<target_name>Service Catalog. Laptop Request</target_name>
+<type>Catalog Items Catalog</type>
+<update_domain>global</update_domain>
+<update_guid>7f8adbb39a30f210afb059dd15f2b4b3</update_guid>
+<update_guid_history>7f8adbb39a30f210afb059dd15f2b4b3:-169295365</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_dc8048405385f210c30538b0a0490eca</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item display_value=" Laptop Request"&gt;95c79bbb53fcb210c30538b0a0490e0f&lt;/cat_item&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;conversational_label/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;disable_initial_slot_fill&gt;false&lt;/disable_initial_slot_fill&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;dynamic_value_dot_walk_path/&gt;&lt;dynamic_value_field/&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field/&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_dependent_question/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_source/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;false&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;additional_accessories&lt;/name&gt;&lt;not_available_conversation&gt;false&lt;/not_available_conversation&gt;&lt;order&gt;300&lt;/order&gt;&lt;post_insert_script/&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref/&gt;&lt;question_text&gt;Additional Accessories&lt;/question_text&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table/&gt;&lt;reference/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;rich_text/&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script&gt;&lt;![CDATA[/** This script is executed before the Record is generated
+* `current`- GlideRecord produced by Record Producer
+* Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+* Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+* Avoid `current.setAbortAction()` and generate a separate record
+* Use `producer.var1` to access variables
+*/]]&gt;&lt;/save_script&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-11-01 10:07:15&lt;/sys_created_on&gt;&lt;sys_id&gt;dc8048405385f210c30538b0a0490eca&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Additional Accessories&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_dc8048405385f210c30538b0a0490eca&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-11-01 10:08:44&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;topic_block/&gt;&lt;type&gt;7&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set/&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=dc8048405385f210c30538b0a0490eca"/&gt;&lt;fx_price action="delete_multiple" query="id=dc8048405385f210c30538b0a0490eca"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="INR"&gt;INR&lt;/currency&gt;&lt;field&gt;price_if_checked&lt;/field&gt;&lt;id&gt;dc8048405385f210c30538b0a0490eca&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-11-01 10:07:16&lt;/sys_created_on&gt;&lt;sys_id&gt;b4c040805385f210c30538b0a0490e3d&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-11-01 10:07:16&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="INR"&gt;INR&lt;/currency&gt;&lt;field&gt;rec_price_if_checked&lt;/field&gt;&lt;id&gt;dc8048405385f210c30538b0a0490eca&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-11-01 10:07:16&lt;/sys_created_on&gt;&lt;sys_id&gt;f8c040805385f210c30538b0a0490e3c&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-11-01 10:07:16&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-2025737538</payload_hash>
+<remote_update_set display_value="Laptop Request">d16448c45385f210c30538b0a0490eae</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-11-01 10:23:09</sys_created_on>
+<sys_id>d56448c45385f210c30538b0a0490eb0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19a3ee40f4e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-11-01 10:23:09</sys_updated_on>
+<table/>
+<target_name>Additional Accessories</target_name>
+<type>CheckBox</type>
+<update_domain>global</update_domain>
+<update_guid>ea110c805785f2103c6fe82cc396bb07</update_guid>
+<update_guid_history>ea110c805785f2103c6fe82cc396bb07:-2025737538,38c04080e585f210e7da1c0c3818d541:-124904161</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sc_cat_item_category_338adbb35330f210c30538b0a0490eb6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value=" Laptop Request">95c79bbb53fcb210c30538b0a0490e0f</sc_cat_item><sc_category display_value="Hardware">d258b953c611227a0146101fb1be7c31</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-11-01 07:20:21</sys_created_on><sys_id>338adbb35330f210c30538b0a0490eb6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Hardware. Laptop Request</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sc_cat_item_category_338adbb35330f210c30538b0a0490eb6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-11-01 07:20:21</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+<payload_hash>-284005779</payload_hash>
+<remote_update_set display_value="Laptop Request">d16448c45385f210c30538b0a0490eae</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-11-01 10:23:09</sys_created_on>
+<sys_id>e56488485385f210c30538b0a0490e89</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19a3e49e42e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-11-01 10:23:09</sys_updated_on>
+<table/>
+<target_name>Hardware. Laptop Request</target_name>
+<type>Catalog Item Category</type>
+<update_domain>global</update_domain>
+<update_guid>f38adbb3e130f210f33971a1f6ffa9bc</update_guid>
+<update_guid_history>f38adbb3e130f210f33971a1f6ffa9bc:-284005779</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
